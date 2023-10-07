@@ -1,7 +1,8 @@
 # The-Devil-grabber
 Welcome to The Devil where you cyber-security needs are met we offer the best of the best options such as UAC bypass discord ratting pc rattin info-stealing and more use this link and spread it and i will the owner will give you a special version.
 
-* fetures
+* # fetures
+
 • GUI Builder.
 • UAC Bypass.
 • Custom Icon.
