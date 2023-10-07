@@ -1,7 +1,7 @@
 # The-Devil-grabber
 Welcome to The Devil where you cyber-security needs are met we offer the best of the best options such as UAC bypass discord ratting pc rattin info-stealing and more use this link and spread it and i will the owner will give you a special version.
 
-*fatures
+* fetures
 • GUI Builder.
 • UAC Bypass.
 • Custom Icon.
@@ -61,4 +61,4 @@ Verify the installation by executing python --version in CMD.
 Download Blank Grabber.
 Extract the zip file.
 Navigate to the Blank Grabber folder and double click Builder.bat file.
-Fill in the fields of the builder and press the Build button.*
+Fill in the fields of the builder and press the Build button. *
